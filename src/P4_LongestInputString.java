@@ -36,5 +36,5 @@ public class P4_LongestInputString {
 
 		}
 
-	}
+	} 
 }
