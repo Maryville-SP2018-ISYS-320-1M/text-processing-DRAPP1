@@ -1,7 +1,7 @@
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+ISYS 320 DONE DONE DONE!!!
+	Name(s): Dave Rapp
+	Date: 4-7-18
 */
 
 import java.util.Scanner;
@@ -19,7 +19,7 @@ public class P5_AvgToTwoPlaces {
 		double sum = 0;
 		for( int numberIndex = 1; numberIndex <= numbers; numberIndex++ ) {
 			System.out.print("Enter number " + numberIndex + ": ");
-			double nextInputValue = input.nextDouble();
+			float nextInputValue = input.nextFloat();
 			
 			sum += nextInputValue;
 		}
